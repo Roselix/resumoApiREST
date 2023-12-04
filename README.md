@@ -24,3 +24,7 @@ Os códigos de status HTTP servem para retornar uma resposta a uma requisição 
 * `200 (OK)`: Sucesso na requisição.
 * `404 (Not Found)`: Recurso não encontrado.
 * `500 (Internal Server Error)`: Erro interno do servidor.
+
+      ---
+
+#####Autor do resumo: Marcus Eduardo Dias Barbosa - 01539942
